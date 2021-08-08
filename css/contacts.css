@@ -1,0 +1,16 @@
+.menu-list li{
+    float:left;
+    margin-left: 1px;
+    font-weight: bold;
+    list-style: none;
+    
+  
+}
+
+.menu-list li:hover{
+    background: rgb(253, 169, 12);
+    padding: 8px;
+    border-radius: 14px;
+    transition: all 0.4s ease;
+
+}
